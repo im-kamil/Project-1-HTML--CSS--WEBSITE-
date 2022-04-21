@@ -1,2 +1,2 @@
-# Project-1-HTML--CSS--WEBSITE-
-website of Gym 
+# Projects-HTML--CSS--WEBSITE-
+website of Gym , awesome pages
